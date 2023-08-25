@@ -17,5 +17,5 @@ python main.py --mode=train --dataset=<dataset name> --model=efignn
 
 To test the EFI-GNN:
 ```shell
-python main.py --mode=test --dataset=*\<dataset name\>* --model=efignn
+python main.py --mode=test --dataset=<dataset name> --model=efignn
 ```
